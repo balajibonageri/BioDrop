@@ -1,0 +1,21 @@
+{
+    "name": "Balaji Bonageri",
+    "bio": "I'm Front-End Developer at Startup Company. Love programming and geek on tech stuff. Extremely active on HackerRank & CodeChef. Attracted to Full Stack Web Development. My hobbies are coding, watching Sci-Fi shows.",
+    "links": [
+        {
+            "name": "Portfolio",
+            "url": "https://about.balajibonageri.tech",
+            "icon": "https://img.icons8.com/ios-filled/50/000000/resume-website.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/balajibonageri",
+            "icon": "https://img.icons8.com/ios-filled/50/000000/github.png"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/balaji-bonageri-3a716a16b/",
+            "icon": "https://img.icons8.com/ios-filled/50/000000/linkedin.png"
+        }
+    ]
+}
